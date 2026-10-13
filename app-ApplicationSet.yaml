@@ -25,7 +25,7 @@ spec:
       project: default
 
       source:
-        repoURL: https://github.com/CloudWithVarJosh/app1-config.git
+        repoURL: https://github.com/sjoseph-22/argocd-appset-project.git
         targetRevision: main
         path: "{{.region}}/manifests"
 
